@@ -1,0 +1,114 @@
+{
+  "cart": [
+    {
+      "id": "Orange Coloured Shirt",
+      "Imgurl": "../public/assets/tee2.jpeg",
+      "Size": "L",
+      "Qty": "3",
+      "Style": "Western",
+      "Color": "Black",
+      "Price": "250"
+    },
+    {
+      "id": "Pink Coloured Shirt",
+      "Imgurl": "../public/assets/tee4.jpeg",
+      "Size": "XXL",
+      "Qty": "1",
+      "Style": "Western",
+      "Color": "Black",
+      "Price": "250"
+    },
+    {
+      "id": "Grey Hoodie",
+      "Imgurl": "../public/assets/tee7.jpeg",
+      "Size": "L",
+      "Qty": "2",
+      "Style": "Western",
+      "Color": "Grey",
+      "Price": "600"
+    }
+  ],
+  "promotions": [
+    {
+      "name": "YAY100",
+      "price": "100"
+    },
+    {
+      "name": "WOW50",
+      "price": "50"
+    },
+    {
+      "name": "NEWUSR",
+      "price": "200"
+    },
+    {
+      "name": "FESTIVE150",
+      "price": "100"
+    }
+  ],
+  "inventory": [
+    {
+      "id": "Dot Style T-Shirt",
+      "Imgurl": "../public/assets/tee1.jpeg",
+      "Size": "L",
+      "Qty": "3",
+      "Style": "Western",
+      "Color": "Black",
+      "Price": "450"
+    },
+    {
+      "id": "Printed Black Shirt",
+      "Imgurl": "../public/assets/tee2.jpeg",
+      "Size": "L",
+      "Qty": "2",
+      "Style": "Western",
+      "Color": "Black",
+      "Price": "300"
+    },
+    {
+      "id": "Plain Black Shirt",
+      "Imgurl": "../public/assets/tee4.jpeg",
+      "Size": "XXL",
+      "Qty": "2",
+      "Style": "Western",
+      "Color": "Black",
+      "Price": "300"
+    },
+    {
+      "id": "Red Coloured MC D Shirt",
+      "Imgurl": "../public/assets/tee5.jpeg",
+      "Size": "L",
+      "Qty": "3",
+      "Style": "Western",
+      "Color": "Black",
+      "Price": "350"
+    },
+    {
+      "id": "Blue Print Shirt",
+      "Imgurl": "../public/assets/tee6.jpeg",
+      "Size": "L",
+      "Qty": "2",
+      "Style": "Western",
+      "Color": "Black",
+      "Price": "400"
+    },
+    {
+      "id": "Grey Hoodie",
+      "Imgurl": "../public/assets/tee7.jpeg",
+      "Size": "L",
+      "Qty": "2",
+      "Style": "Western",
+      "Color": "Grey",
+      "Price": "600"
+    },
+    {
+      "id": "Black Hoodie",
+      "Imgurl": "../public/assets/tee8.jpeg",
+      "Size": "L",
+      "Qty": "2",
+      "Style": "Western",
+      "Color": "Black",
+      "Price": "700"
+    }
+  ]
+}
